@@ -30,13 +30,13 @@ This project is a boilerplate for quickly starting a React application using Vit
 To add new Shadcn/ui components, use the following command:
 
 ```
-npx shadcn-ui@latest add [component-name]
+npx shadcn@latest add [component-name]
 ```
 
 For example, to add the button component:
 
 ```
-npx shadcn-ui@latest add button
+npx shadcn@latest add button
 ```
 
 ## Project Structure
