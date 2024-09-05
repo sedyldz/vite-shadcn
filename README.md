@@ -48,6 +48,7 @@ npx shadcn-ui@latest add button
 
 ## Available Scripts
 
-- `npm run dev`: Starts the development server
-- `npm run build`: Builds the app for production
-- `npm run lint`: Runs
+- `npm run dev`: Starts the development server using Vite
+- `npm run build`: Compiles TypeScript and builds the app for production
+- `npm run lint`: Runs ESLint to check for code quality and style issues
+- `npm run preview`: Previews the production build locally using Vite
