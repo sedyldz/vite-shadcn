@@ -23,7 +23,7 @@ This project is a boilerplate for quickly starting a React application using Vit
    npm run dev
    ```
 
-4. Open your browser and visit `http://localhost:3000`
+4. Open your browser and visit `http://localhost:5173`
 
 ## Adding Shadcn/ui Components
 
