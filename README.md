@@ -7,8 +7,8 @@ This project is a boilerplate for quickly starting a React application using Vit
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/vite-shadcn-boilerplate.git
-   cd vite-shadcn-boilerplate
+   git clone https://github.com/yourusername/vite-shadcn.git
+   cd vite-shadcn
    ```
 
 2. Install dependencies:
